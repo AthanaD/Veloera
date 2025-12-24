@@ -16,6 +16,9 @@ Thanks for choosing Veloera. There are dreams in life, and each is wonderful. Ho
 
 ---
 
+Veloera, made with ❤️ by community and contributors. 2025 - 2025.
+
+<!--
 ![Veloera](https://socialify.git.ci/Veloera/Veloera/image?font=Raleway&forks=1&issues=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
 
 # Veloera
