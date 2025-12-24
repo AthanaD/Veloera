@@ -1,3 +1,21 @@
+# No longer mantained.
+
+This project is NO LONGER BEING ACTIVE MAINTAINED. 
+
+For helps about migrate to New API, please refer to https://github.com/Veloera/Veloera/discussions/183
+
+Thanks for choosing Veloera. There are dreams in life, and each is wonderful. Hope to see you next time in the world.
+
+# 已停止维护。
+
+本项目已停止维护。
+
+如需迁移至 New API 的帮助，请访问 https://github.com/Veloera/Veloera/discussions/183
+
+感谢您选择 Veloera。人生充满梦想，每一个梦想都无比美好。期待与您在世界的某个角落再次相遇。
+
+---
+
 ![Veloera](https://socialify.git.ci/Veloera/Veloera/image?font=Raleway&forks=1&issues=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
 
 # Veloera
